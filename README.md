@@ -1,5 +1,6 @@
 # Few-shot Biomedical NER via Multi-task Learning and More Fine-grained Grid-tagging Strategy(MMG)
  
+MMG code is available at https://github.com/MWXGOD/MMG
 
 ### 1_aug_exam
 <p align="center">
