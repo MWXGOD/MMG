@@ -2,22 +2,6 @@
  
 MMG code is available at https://github.com/MWXGOD/MMG
 
-### 1_aug_exam
-<p align="center">
-  <img src="./figure/Prompt.jpg" width="400"/>
-</p>
- 
-
-### 2_decode
-<p align="center">
-  <img src="./figure/Multi-Task.jpg" width="400"/>
-</p>
-
-
-### 2_model
-<p align="center">
-  <img src="./figure/Overall.jpg" />
-</p>
 
 ## 1. Environments
 
